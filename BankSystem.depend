@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1588399604 source:c:\users\mghaderi\desktop\ap\online_questions\oo_basics\banksystem\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+	<iomanip>
+	<cstdlib>
+	<cstring>
+	<utility>
+	"BankSystem.h"
+
+1588399065 c:\users\mghaderi\desktop\ap\online_questions\oo_basics\banksystem\banksystem.h
+	<vector>
+	<string>
+	<cstring>
+
+1588399959 source:c:\users\mghaderi\desktop\ap\online_questions\oo_basics\banksystem\banksystem.cpp
+	"BankSystem.h"
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+	<iomanip>
+	<cstdlib>
+	<cstring>
+	<utility>
+
